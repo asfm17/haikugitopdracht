@@ -17,6 +17,13 @@ function Haiku2(){
     console.log("Apple rolls away");
 }
 
+function Haiku3(){
+    console.log("haiku by:","Akira");
+    console.log("Car on road");
+    console.log("Car speeds up");
+    console.log("Car crashes into brick wall");
+}
+
 //laat de code hieronder met rust
 Haiku1()
 Haiku2()
